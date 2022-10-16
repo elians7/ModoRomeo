@@ -3,14 +3,67 @@
 }
 
 .contenedor{
-    background: deeppink;
+    background: rgb(196, 68, 201);
     width: 100vw;
     height: 100vh;
     text-align: center;
 }
 
+
+h1 {
+	color: lightyellow;
+	font-size: 50px;
+	padding: 0px 5px 2px ;
+	border: 1px;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	background-color: rgb(197, 21, 118);
+	text-align: center;
+}
+h2:hover {
+	color: rgb(151, 84, 160);
+}
+h2{
+	font-size: 25px;
+	padding-top: 1px;
+	padding-bottom: 10px;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+
+}
+
+h3 {
+    color: lightyellow;
+	font-size: 20px;
+	padding: 0px 5px 2px ;
+	border: 1px;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	background-color: rgb(194, 31, 120);
+	text-align: center;
+}
 p{
-    font-size: xx-large;
-    padding: 15%;
-    ;
+	font-size: 20px;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+.boton{
+	font-size: 20px;
+	font-family: cursive;
+}
+.recuerdo1{
+	width: 500px;
+	
+	border-radius: 10px;
+}
+.boton1{
+	font-size: 15px;
+	font-family: cursive;
+}
+.audio1{
+	display: inline;
+}
+.videuwu{
+	width: 700px;
+}
+.recuerdo2{
+	height: 400px;
+	border: 10px inset mediumpurple;
+	border-radius: 10px;
 }
